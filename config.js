@@ -45,8 +45,7 @@ celebration: {
     title: "you make me happy",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
     emojis: "🎁💖🤗💝"                        // Celebration emojis
-}
-,
+},
 // Website Colors
 colors: {
     backgroundStart: "#ffafbd",      // Background gradient start
@@ -72,5 +71,6 @@ music: {
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
+    }
 };
 window.VALENTINE_CONFIG = CONFIG; 
