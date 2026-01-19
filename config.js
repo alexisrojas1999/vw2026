@@ -9,8 +9,8 @@ const CONFIG = {
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓','🌷'],  // Heart emojis in background
-    bears: ['🧸', '🐷']                       // Bear emojis in background
+    hearts: ['❤️', '💖', '🐓', '🤠', '💓','🌷'],  // Heart emojis in background
+    bears: ['🌹', '🐷']                       // Bear emojis in background
 },
 
 // Questions and Buttons
@@ -43,7 +43,7 @@ loveMessages: {
 // Final Celebration
 celebration: {
     title: "See you when youre back",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    message: "Now Enjoy the flowers...",          // Celebration message
     emojis: "🎁🐄🤗🐣"                        // Celebration emojis
 },
 // Website Colors
