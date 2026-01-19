@@ -31,14 +31,14 @@ questions: {
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
-}
+},
 
 // Love Meter Messages
 loveMessages: {
     extreme: "are you sure",  // Shows above 5000%
     high: "sure 🚀💝",              // Shows above 1000%
     normal: "Ok will believe you"                           // Shows above 100%
-}
+},
 
 // Final Celebration
 celebration: {
@@ -46,7 +46,7 @@ celebration: {
     message: "Now come get your gift...",          // Celebration message
     emojis: "🎁💖🤗💝"                        // Celebration emojis
 }
-
+,
 // Website Colors
 colors: {
     backgroundStart: "#ffafbd",      // Background gradient start
@@ -54,7 +54,7 @@ colors: {
     buttonBackground: "#ff6b6b",     // Button color
     buttonHover: "#ff8787",          // Button hover color
     textColor: "#ff4757"            // Text color
-}
+},
 
 // Animation Settings
 animations: {
@@ -62,7 +62,7 @@ animations: {
     floatDistance: "50px",          // Sideways movement (30-70px)
     bounceSpeed: "0.5s",            // Bounce animation speed (0.3-0.7s)
     heartExplosionSize: 1.5         // Final heart explosion size (1.2-2.0)
-}
+},
 
 // Music Settings
 music: {
@@ -72,4 +72,5 @@ music: {
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
-}
+};
+window.VALENTINE_CONFIG = CONFIG; 
