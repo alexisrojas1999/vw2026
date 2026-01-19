@@ -1,11 +1,11 @@
 // Basic Information
 valentineName: "Dai"                    // Your Valentine's name
-pageTitle: "Fish" // Browser tab title
+pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
     hearts: ['❤️', '💖', '💝', '💗', '💓','🌷'],  // Heart emojis in background
-    bears: ['🧸', '🐷','🐷']                       // Bear emojis in background
+    bears: ['🧸', '🐷']                       // Bear emojis in background
 }
 
 // Questions and Buttons
