@@ -1,6 +1,11 @@
-// Basic Information
-valentineName: "Dai"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+const CONFIG = {
+    // Your Valentine's name that will appear in the title
+    // Example: "Jade", "Sarah", "Mike"
+    valentineName: "Dai",
+
+    // The title that appears in the browser tab
+    // You can use emojis! 💝 💖 💗 💓 💞 💕
+    pageTitle: "Will You Be My Valentine? 💝",
 
 // Floating Background Elements
 floatingEmojis: {
