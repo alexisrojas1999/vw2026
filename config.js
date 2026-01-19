@@ -19,10 +19,10 @@ questions: {
         text: "Do you want to know a secret?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "alriht then ❤️"  // Hidden message
+        secretAnswer: "alright then ❤️"  // Hidden message
     },
     second: {
-        text: "How much do?",          // Second question
+        text: "How much",          // Second question
         startText: "This much!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
@@ -42,9 +42,9 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "you make me happy",     // Celebration title
+    title: "See you when youre back",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝"                        // Celebration emojis
+    emojis: "🎁🐄🤗🐣"                        // Celebration emojis
 },
 // Website Colors
 colors: {
